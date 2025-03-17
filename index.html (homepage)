@@ -23,8 +23,13 @@
         <section>
             <h1>Home Page</h1>
             <p>Welcome to our website. This is the homepage.</p>
+            <!-- Dark Mode Toggle Button -->
+            <button onclick="changeTheme()" id="theme-toggle-btn">Toggle Dark Mode</button>
         </section>
     </main>
+
+    <!-- Link to JavaScript file -->
+    <script src="script.js"></script>
 
 </body>
 </html>
